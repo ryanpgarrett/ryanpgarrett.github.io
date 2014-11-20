@@ -1,8 +1,8 @@
 # Site settings
-title: Ryan P. Garrett
+title: Ryan Garrett
 email: ryan.p.garrett@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my new blog page. I just started using jekyll so this blog is naturally built with jekyll. Conveniently Github works well with jekyll so, why not :)
+  Welcome to my new blog page. I just started using jekyll so this blog is naturally built with it. Conveniently Github works well with jekyll so, why not :)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ryanpgarrett.github.io" # the base hostname & protocol for your site
 twitter_username: ryanpgarrett
